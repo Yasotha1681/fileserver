@@ -1,0 +1,1 @@
+allocation of data to send cilent to server
